@@ -3,7 +3,7 @@
 I'm a Third year student pursuing Bachelors's in Computer Science 🎓 from National Institute of Technology Patna 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies✨. I'm currently into Web Development 🕸️.
 
 More about me :
-- 🔭 - 🌱 I’m currently learning Android Development.💻
+- 🔭 I’m currently learning Android Development.💻
 - 👯 I’m looking to collaborate on any Open Source Project involving Java/Python.
 - 💬 I have worked on Java, Python, HTML/CSS,c++,Php,MySQL,Git etc.
 - 📫 How to reach me: abhikrit1212@gmail.com 
