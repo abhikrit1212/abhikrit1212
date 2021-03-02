@@ -5,7 +5,7 @@ I'm a Third year student pursuing Bachelors's in Computer Science 🎓 from Nati
 More about me :
 - 🔭 I’m currently learning Android Development.💻
 - 👯 I’m looking to collaborate on any Open Source Project involving Java/Python.
-- 💬 I have worked on Java, Python, HTML/CSS,c++,Php,MySQL,Git etc.
+- 💬 I have worked on Java, Python, HTML/CSS,C++,Php,MySQL,Git etc.
 - 📫 How to reach me: abhikrit1212@gmail.com 
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire me 👨‍💻
 
