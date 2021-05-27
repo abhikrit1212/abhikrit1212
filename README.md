@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Abhikrit
 
-I'm a Third year student pursuing Bachelors's in Computer Science 🎓 from National Institute of Technology Patna 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies✨. I'm currently into Web Development 🕸️.
+I'm a final year student pursuing Bachelors's in Computer Science 🎓 from National Institute of Technology Patna 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies✨. I'm currently into Web Development 🕸️.
 
 More about me :
 - 🔭 I’m currently learning Web Development.💻
