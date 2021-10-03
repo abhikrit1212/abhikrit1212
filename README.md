@@ -7,7 +7,7 @@ More about me :
 - 👯 I’m looking to collaborate on any Open Source Project involving Python.
 - 💬 I have worked on Python,Django,JAVA,C++,HTML/CSS,C++,Php,MySQL,Javascript,Git etc.
 - 📫 How to reach me: abhikrit1212@gmail.com 
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript.
+- ⚡ Motivation: When the going gets tough,the tough get going.
 
 
 <br/>
